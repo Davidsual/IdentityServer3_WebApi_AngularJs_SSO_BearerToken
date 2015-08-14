@@ -1,0 +1,9 @@
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Client.exe.config
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Client.exe
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Client.pdb
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Newtonsoft.Json.dll
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Thinktecture.IdentityModel.Client.Net45.dll
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Newtonsoft.Json.xml
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\bin\Debug\Thinktecture.IdentityModel.Client.Net45.pdb
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\obj\Debug\Client.exe
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\Client\obj\Debug\Client.pdb

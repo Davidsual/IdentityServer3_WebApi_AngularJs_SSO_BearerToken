@@ -1,0 +1,5 @@
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+C:\DavideTestToDelete\IdentityServer3.Samples-master\source\Simplest OAuth2 Walkthrough\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
